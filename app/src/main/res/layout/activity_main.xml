@@ -17,6 +17,7 @@
     <EditText
         android:id="@+id/etTodoTitle"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:hint="Enter Todo Title" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
